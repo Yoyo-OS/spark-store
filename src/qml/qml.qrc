@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SideBar.qml</file>
+        <file>TopBar.qml</file>
+        <file>Pages/WebListPage.qml</file>
+        <file>GlobalSettings.qml</file>
+    </qresource>
+</RCC>
